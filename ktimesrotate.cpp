@@ -1,3 +1,6 @@
+// in this question we have to rotate k times 
+
+
 #include <iostream>
 #include<vector>
 using namespace std;

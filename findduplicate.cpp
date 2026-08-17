@@ -1,3 +1,5 @@
+// find duplicate from vector
+
 #include<vector>
 #include<iostream>
 using namespace std;

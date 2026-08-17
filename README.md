@@ -6,4 +6,5 @@ here we solve dsa problem on companyblevel
 3.k times rotate
 4.replace each element with the greatest element to its right 
 5. find duplicate number
+6.check a number is palindrome or not
 

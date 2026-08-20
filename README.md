@@ -8,5 +8,5 @@ here we solve dsa problem on companyblevel
 5. find duplicate number
 6.check a number is palindrome or not
 7.Find missing number
-8.find second largest element
+8.find second largest element 
 

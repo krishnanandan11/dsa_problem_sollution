@@ -10,4 +10,7 @@ here we solve dsa problem on companyblevel
 7.Find missing number.
 8.find second largest element.
 9.
+10.
+11.
+12.
 

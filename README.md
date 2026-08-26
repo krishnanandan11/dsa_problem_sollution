@@ -16,8 +16,3 @@ here we solve dsa problem on companyblevel
 12.
 13.
 14.
-
-=======
-  
-   
->>>>>>> d782c73281d4a82f352d7f37d021f7c72d2ce255

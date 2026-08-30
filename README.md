@@ -9,4 +9,14 @@ here we solve dsa problem on companyblevel
 6.check a number is palindrome or not.
 7.Find missing number.
 8.find second largest element.
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+9.moove zero at end
+10.
+11.
+12.
+13.
+14.
+>>>>>>> 50b6899 (readme updated)
 

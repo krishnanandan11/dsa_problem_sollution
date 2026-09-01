@@ -12,4 +12,4 @@ here we solve dsa problem on companyblevel
 9.moove zero at end
 10.
 11.
-1
+12.
